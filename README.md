@@ -1,5 +1,5 @@
-#Ants
-##CS61A Project 3
+# Ants
+## CS61A Project 3
 ![*The bees are coming!
 Create a better soldier
 With inherit-ants.
