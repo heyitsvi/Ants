@@ -11,3 +11,6 @@ In this project, you will create a [tower defense](https://secure.wikimedia.org/
 ![*GUI explanation*](https://inst.eecs.berkeley.edu/~cs61a/fa21/proj/ants/img/gui_explanation.png)
 
 This project combines functional and object-oriented programming paradigms, focusing on the material from [Chapter 2.5](http://composingprograms.com/pages/25-object-oriented-programming.html) of Composing Programs. The project also involves understanding, extending, and testing a large program.
+
+## Run the program
+python3 gui.py
